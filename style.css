@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: black;
+}
+
+/*classes pour les textes */
+.colorBlueHaut{
+	color:#2e9ed8;
+}
+.colorBlueMilieu{
+	color:#2d9bd3;
+}
+.colorBlueBas{
+	color:#1d9cdc;
+	opacity: 0.75;
+}
+
+.hex_x3{
+	display: inline-block;
+	position: relative;
+	left: 10%;
+}
+.hex_x4{
+	display: inline-block;
+	position: relative;
+	left: 60%;
+	top: 100px;
+}
+
+.grille{
+	position: relative;
+	top: 250px;
+}
+
+.circuit{
+	position: relative;
+	top: 0px;
+}
